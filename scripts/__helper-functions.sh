@@ -80,7 +80,7 @@ function check_status {
 
     if [[ ${#NOT_INSTALLED[@]} -eq 0 ]]; then
         echo -e "\nNothing to do here..."
-        exit 0
+        # exit 0
     fi
 
 
