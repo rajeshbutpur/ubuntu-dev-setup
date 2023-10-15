@@ -6,7 +6,9 @@ cd "$HOME/mywork"
 
 # Array of repository URLs
 repos=(
+    # Public git repos should be in the below format
     "https://github.com/<user_name>/<project_name>"
+    # Private git repos should be in the below format
     "git@github.com:<user_name>/<project_name>.git"
     # Add more repositories if needed
 )
