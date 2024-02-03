@@ -13,3 +13,6 @@
     ```bash
       ./setup.sh
     ```
+
+## TODO
+- aws cli
